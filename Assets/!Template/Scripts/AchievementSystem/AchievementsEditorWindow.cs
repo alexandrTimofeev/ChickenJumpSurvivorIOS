@@ -1,4 +1,4 @@
-﻿// Assets/Editor/AchievementsEditorWindow.cs
+﻿#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 using System;
@@ -177,3 +177,4 @@ public class AchievementsEditorWindow : EditorWindow
             EditorUtility.SetDirty(targetData);
     }
 }
+#endif
