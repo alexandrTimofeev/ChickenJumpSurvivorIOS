@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e6a058684896f44d8c4162cf713b786, type: 3}
+  m_Name: Level_2
+  m_EditorClassIdentifier: 
+  ScoreTarget: 100
+  Timer: 140
+  LevelPrefab: {fileID: 989878153548343607, guid: cf9dcba057f584843bb4e82ea604511d, type: 3}
+  Background: {fileID: 7691603246234694709, guid: d63e428acd4e9394c8c723c8969cdd0d, type: 3}

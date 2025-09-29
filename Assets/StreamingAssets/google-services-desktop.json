@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664683514625",
+    "project_id": "chicken-jump-survivor",
+    "storage_bucket": "chicken-jump-survivor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664683514625:android:aef9ecde3815f277bea900",
+        "android_client_info": {
+          "package_name": "com.Snk.ChickenJumpSurvivor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9PhXP6f3IztZ2kZNNP956h6-s0ib9ZMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

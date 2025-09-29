@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b747b46125cfc41a823c28571c40af, type: 3}
+  m_Name: SpawnerSettings
+  m_EditorClassIdentifier: 
+  Phases:
+  - Instructions:
+    - id: Egg
+      Items:
+      - Prefab: {fileID: 1334549321529894511, guid: 1f698f9acbf2ed1459c087579c50b3b9, type: 3}
+        Probability: 1
+      - Prefab: {fileID: 1621089674758475098, guid: 4b988ac37d239544a848f74b89b4f487, type: 3}
+        Probability: 0.3
+      - Prefab: {fileID: 2213169380682190646, guid: 21e0d097d42467e4a9d62510a3aa28ce, type: 3}
+        Probability: 0.5
+      - Prefab: {fileID: 4388788628896495193, guid: 70a7e468aa7c24d4d859dc9e4466ff22, type: 3}
+        Probability: 0.35
+      SpawnInterval: {x: 6, y: 7}
+      spawnSpecialCount: -1
+      spawnSpecial:
+        Prefab: {fileID: 0}
+        Probability: 1
+      spawnAnimation: 0
+      durarion: 0.5
+      spawnScale: 1
+  SpeedChangeOnNext: 0.15
+  spawnPhasesChange: {fileID: 0}

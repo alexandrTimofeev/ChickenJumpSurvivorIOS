@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da7dc7510d721b0488c13e58c4157800, type: 3}
+  m_Name: AchievimentsData
+  m_EditorClassIdentifier: 
+  allAchiviements:
+  - Info:
+      ID: NotUsePlatform
+      Title: NotUsePlatform
+      InfoTxt: Do not use any platform during the level
+      spriteYes: {fileID: -3772198798219664692, guid: 619d3c3293c14014e9d8fba0776f35d8, type: 3}
+      spriteNo: {fileID: -2431087894564064105, guid: 63916c852213221458864378eb946b76, type: 3}
+    achievementBehaviour:
+      rid: 367706969914474602
+  - Info:
+      ID: NotGrapEggs
+      Title: 1
+      InfoTxt: Avoid all eggs during the level
+      spriteYes: {fileID: 3696827289681631393, guid: 166cdaf3820ec0143902682d7f86fbd1, type: 3}
+      spriteNo: {fileID: -8900025189426432170, guid: e7797615d9e5fa543b7ba3aadc8ff141, type: 3}
+    achievementBehaviour:
+      rid: 367706969914474603
+  - Info:
+      ID: UseAllPlatform
+      Title: UseAllPlatform
+      InfoTxt: Use all six platforms during the level
+      spriteYes: {fileID: -7464874546679417090, guid: d0f10e928d4fc91478635f6a62cff618, type: 3}
+      spriteNo: {fileID: 3127706361432483637, guid: 02ddc22e3e3c01044a32818a0698fc03, type: 3}
+    achievementBehaviour:
+      rid: 367706969914474604
+  - Info:
+      ID: GrapAllEggs
+      Title: GrapAllEggs
+      InfoTxt: Collect all the eggs on the level
+      spriteYes: {fileID: 1774214924890094427, guid: 0da398b2bcfcf294e8e493979375e071, type: 3}
+      spriteNo: {fileID: -6147811503364312396, guid: 2f270bd2c25e2c149877b3491be31bcf, type: 3}
+    achievementBehaviour:
+      rid: 367706949558468610
+  - Info:
+      ID: FirstLvl
+      Title: 4
+      InfoTxt: Complete the first level
+      spriteYes: {fileID: -1865118360736141621, guid: 942e226d553446e428a07552d1bb8469, type: 3}
+      spriteNo: {fileID: -3956966126297549033, guid: 5cd4fde5892b9304c85e34193d7ab97d, type: 3}
+    achievementBehaviour:
+      rid: 367706969914474605
+  - Info:
+      ID: EndLevel
+      Title: EndLevel
+      InfoTxt: Complete the last level
+      spriteYes: {fileID: 6217726360706199437, guid: 09f0a5388f8ad244ba698897e57341e1, type: 3}
+      spriteNo: {fileID: 650703739877666666, guid: efbb67405b30d7d42a8efc2d8bb4abd7, type: 3}
+    achievementBehaviour:
+      rid: 367706969914474606
+  references:
+    version: 2
+    RefIds:
+    - rid: 367706949558468610
+      type: {class: SimpleAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: GrapAllEggs
+        ProgressType: 0
+        EndValue: 0
+    - rid: 367706969914474602
+      type: {class: SimpleAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: NotUsePlatform
+        ProgressType: 0
+        EndValue: 0
+    - rid: 367706969914474603
+      type: {class: SimpleAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: NotGrapEggs
+        ProgressType: 0
+        EndValue: 0
+    - rid: 367706969914474604
+      type: {class: SimpleAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: UseAllPlatform
+        ProgressType: 0
+        EndValue: 0
+    - rid: 367706969914474605
+      type: {class: EndLvlAchiv, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: FirstLvl
+        ProgressType: 0
+        EndValue: 0
+        level: 0
+        LastLvlPrefsName: LastLvl
+    - rid: 367706969914474606
+      type: {class: EndLvlAchiv, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: EndLevel
+        ProgressType: 0
+        EndValue: 0
+        level: 11
+        LastLvlPrefsName: LastLvl
