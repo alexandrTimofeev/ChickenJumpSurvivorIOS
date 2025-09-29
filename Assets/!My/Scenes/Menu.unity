@@ -379,7 +379,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57ce2af61a87c84ba9bf90c26c1f3f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: {x: 0, y: 0, z: -40}
 --- !u!114 &90264325
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4471,7 +4470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6504236416565520996, guid: a52f860c591f15443a28971b4b3fba1a, type: 3}
       propertyPath: _link
-      value: 
+      value: https://birdsuperjumpsurvivor.com/privacy-policy.html
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
