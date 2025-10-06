@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 7041fd73b1058494da482ce7182feb94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6343928859037550847
+    second: Stay tuned with best offers from our casino-1_0
+  - first:
+      213: -1914746153906389323
+    second: Stay tuned with best offers from our casino-1_1
+  - first:
+      213: -4296925513836161469
+    second: Stay tuned with best offers from our casino-1_2
+  - first:
+      213: 1425418828898049073
+    second: Stay tuned with best offers from our casino-1_3
+  - first:
+      213: 2355748987872931898
+    second: Stay tuned with best offers from our casino-1_4
+  - first:
+      213: 343052075815175623
+    second: Stay tuned with best offers from our casino-1_5
+  - first:
+      213: -8963591639575151054
+    second: Stay tuned with best offers from our casino-1_6
+  - first:
+      213: 8481421942022017916
+    second: Stay tuned with best offers from our casino-1_7
+  - first:
+      213: -7769377278726338832
+    second: Stay tuned with best offers from our casino-1_8
+  - first:
+      213: -2965221720453686084
+    second: Stay tuned with best offers from our casino-1_9
+  - first:
+      213: -4583915863812034900
+    second: Stay tuned with best offers from our casino-1_10
+  - first:
+      213: -249149695772838727
+    second: Stay tuned with best offers from our casino-1_11
+  - first:
+      213: 1658753433621358058
+    second: Stay tuned with best offers from our casino-1_12
+  - first:
+      213: -757840828932827526
+    second: Stay tuned with best offers from our casino-1_13
+  - first:
+      213: -5463498669526001554
+    second: Stay tuned with best offers from our casino-1_14
+  - first:
+      213: -3499252665202807861
+    second: Stay tuned with best offers from our casino-1_15
+  - first:
+      213: -5813460870275731543
+    second: Stay tuned with best offers from our casino-1_16
+  - first:
+      213: -8073548311493097949
+    second: Stay tuned with best offers from our casino-1_17
+  - first:
+      213: 7880866277220400292
+    second: Stay tuned with best offers from our casino-1_18
+  - first:
+      213: -7085009798371400729
+    second: Stay tuned with best offers from our casino-1_19
+  - first:
+      213: 2276664599568477792
+    second: Stay tuned with best offers from our casino-1_20
+  - first:
+      213: -5996633334612286167
+    second: Stay tuned with best offers from our casino-1_21
+  - first:
+      213: 5732132801445798421
+    second: Stay tuned with best offers from our casino-1_22
+  - first:
+      213: -3268513419307216023
+    second: Stay tuned with best offers from our casino-1_23
+  - first:
+      213: 426160848194882914
+    second: Stay tuned with best offers from our casino-1_24
+  - first:
+      213: 8988434911417906779
+    second: Stay tuned with best offers from our casino-1_25
+  - first:
+      213: -1358365673449982949
+    second: Stay tuned with best offers from our casino-1_26
+  - first:
+      213: 6672750560934190064
+    second: Stay tuned with best offers from our casino-1_27
+  - first:
+      213: 5412934472911058044
+    second: Stay tuned with best offers from our casino-1_28
+  - first:
+      213: -4353510697918511413
+    second: Stay tuned with best offers from our casino-1_29
+  - first:
+      213: -295446242810914780
+    second: Stay tuned with best offers from our casino-1_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b7b47056d5f7a0800000000000000
+      internalID: -6343928859037550847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3d5d84847d65e0800000000000000
+      internalID: -1914746153906389323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3469b71e2014e54c0800000000000000
+      internalID: -4296925513836161469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1f986fda18c310800000000000000
+      internalID: 1425418828898049073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f622293d41b020800000000000000
+      internalID: 2355748987872931898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c58c6e9b04c2c400800000000000000
+      internalID: 343052075815175623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e367b15ecea9380800000000000000
+      internalID: -8963591639575151054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731d6cd15014b570800000000000000
+      internalID: 8481421942022017916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f686876780ad2490800000000000000
+      internalID: -7769377278726338832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcd5104e8a69d6d0800000000000000
+      internalID: -2965221720453686084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea439fec8a260c0800000000000000
+      internalID: -4583915863812034900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b43097fba7da8cf0800000000000000
+      internalID: -249149695772838727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e5fc9573150710800000000000000
+      internalID: 1658753433621358058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76db2308cb9b75f0800000000000000
+      internalID: -757840828932827526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68551c28e0cd24b0800000000000000
+      internalID: -5463498669526001554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6f37ad38207fc0800000000000000
+      internalID: -3499252665202807861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afe497b320725fa0800000000000000
+      internalID: -5813460870275731543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326cf70169ef4ff80800000000000000
+      internalID: -8073548311493097949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb310ef167e5d60800000000000000
+      internalID: 7880866277220400292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e329e9502dfcad90800000000000000
+      internalID: -7085009798371400729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e6cf91466589f10800000000000000
+      internalID: 2276664599568477792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252b22f0cda7cca0800000000000000
+      internalID: -5996633334612286167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512aa8ba960ac8f40800000000000000
+      internalID: 5732132801445798421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963989acc58e3a2d0800000000000000
+      internalID: -3268513419307216023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dc5d598070ae500800000000000000
+      internalID: 426160848194882914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b8cddde55dbc70800000000000000
+      internalID: 8988434911417906779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14fdeeed9d162de0800000000000000
+      internalID: -1358365673449982949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb554b084f5a9c50800000000000000
+      internalID: 6672750560934190064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c747452693b9e1b40800000000000000
+      internalID: 5412934472911058044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc644bc06193593c0800000000000000
+      internalID: -4353510697918511413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay tuned with best offers from our casino-1_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428180f153d56ebf0800000000000000
+      internalID: -295446242810914780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stay tuned with best offers from our casino-1_0: -6343928859037550847
+      Stay tuned with best offers from our casino-1_1: -1914746153906389323
+      Stay tuned with best offers from our casino-1_10: -4583915863812034900
+      Stay tuned with best offers from our casino-1_11: -249149695772838727
+      Stay tuned with best offers from our casino-1_12: 1658753433621358058
+      Stay tuned with best offers from our casino-1_13: -757840828932827526
+      Stay tuned with best offers from our casino-1_14: -5463498669526001554
+      Stay tuned with best offers from our casino-1_15: -3499252665202807861
+      Stay tuned with best offers from our casino-1_16: -5813460870275731543
+      Stay tuned with best offers from our casino-1_17: -8073548311493097949
+      Stay tuned with best offers from our casino-1_18: 7880866277220400292
+      Stay tuned with best offers from our casino-1_19: -7085009798371400729
+      Stay tuned with best offers from our casino-1_2: -4296925513836161469
+      Stay tuned with best offers from our casino-1_20: 2276664599568477792
+      Stay tuned with best offers from our casino-1_21: -5996633334612286167
+      Stay tuned with best offers from our casino-1_22: 5732132801445798421
+      Stay tuned with best offers from our casino-1_23: -3268513419307216023
+      Stay tuned with best offers from our casino-1_24: 426160848194882914
+      Stay tuned with best offers from our casino-1_25: 8988434911417906779
+      Stay tuned with best offers from our casino-1_26: -1358365673449982949
+      Stay tuned with best offers from our casino-1_27: 6672750560934190064
+      Stay tuned with best offers from our casino-1_28: 5412934472911058044
+      Stay tuned with best offers from our casino-1_29: -4353510697918511413
+      Stay tuned with best offers from our casino-1_3: 1425418828898049073
+      Stay tuned with best offers from our casino-1_30: -295446242810914780
+      Stay tuned with best offers from our casino-1_4: 2355748987872931898
+      Stay tuned with best offers from our casino-1_5: 343052075815175623
+      Stay tuned with best offers from our casino-1_6: -8963591639575151054
+      Stay tuned with best offers from our casino-1_7: 8481421942022017916
+      Stay tuned with best offers from our casino-1_8: -7769377278726338832
+      Stay tuned with best offers from our casino-1_9: -2965221720453686084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

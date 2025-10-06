@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 3d913b82c4ad9144894ed74e9d116b8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8923450842595526806
+    second: Allow notifications about bonuses and promos-1_0
+  - first:
+      213: -8490732224109835393
+    second: Allow notifications about bonuses and promos-1_1
+  - first:
+      213: -2305770031350126988
+    second: Allow notifications about bonuses and promos-1_2
+  - first:
+      213: -8710073735728616879
+    second: Allow notifications about bonuses and promos-1_3
+  - first:
+      213: -5750945815890533011
+    second: Allow notifications about bonuses and promos-1_4
+  - first:
+      213: 4694068369261848335
+    second: Allow notifications about bonuses and promos-1_5
+  - first:
+      213: 5448062348158061805
+    second: Allow notifications about bonuses and promos-1_6
+  - first:
+      213: 5914659878568057629
+    second: Allow notifications about bonuses and promos-1_7
+  - first:
+      213: -8198282576443826354
+    second: Allow notifications about bonuses and promos-1_8
+  - first:
+      213: 2353983020191530194
+    second: Allow notifications about bonuses and promos-1_9
+  - first:
+      213: -77744616550293226
+    second: Allow notifications about bonuses and promos-1_10
+  - first:
+      213: -4971486262700208061
+    second: Allow notifications about bonuses and promos-1_11
+  - first:
+      213: -8060074392751056457
+    second: Allow notifications about bonuses and promos-1_12
+  - first:
+      213: -8323169428224885917
+    second: Allow notifications about bonuses and promos-1_13
+  - first:
+      213: 4988533370033004088
+    second: Allow notifications about bonuses and promos-1_14
+  - first:
+      213: -6605096802758727347
+    second: Allow notifications about bonuses and promos-1_15
+  - first:
+      213: 7139916386983258464
+    second: Allow notifications about bonuses and promos-1_16
+  - first:
+      213: -2338331006954808430
+    second: Allow notifications about bonuses and promos-1_17
+  - first:
+      213: -2675326989479406933
+    second: Allow notifications about bonuses and promos-1_18
+  - first:
+      213: -9004861056250045605
+    second: Allow notifications about bonuses and promos-1_19
+  - first:
+      213: 8625401376805393550
+    second: Allow notifications about bonuses and promos-1_20
+  - first:
+      213: 2405993567140132034
+    second: Allow notifications about bonuses and promos-1_21
+  - first:
+      213: -2042041701979152287
+    second: Allow notifications about bonuses and promos-1_22
+  - first:
+      213: -2189404613652984377
+    second: Allow notifications about bonuses and promos-1_23
+  - first:
+      213: -1599905989981552611
+    second: Allow notifications about bonuses and promos-1_24
+  - first:
+      213: 6790293949272497592
+    second: Allow notifications about bonuses and promos-1_25
+  - first:
+      213: 4792132372378620717
+    second: Allow notifications about bonuses and promos-1_26
+  - first:
+      213: 9052815565860752527
+    second: Allow notifications about bonuses and promos-1_27
+  - first:
+      213: -3263436866828575039
+    second: Allow notifications about bonuses and promos-1_28
+  - first:
+      213: 7296366203006456862
+    second: Allow notifications about bonuses and promos-1_29
+  - first:
+      213: 1980379407059138129
+    second: Allow notifications about bonuses and promos-1_30
+  - first:
+      213: -1662475443893220657
+    second: Allow notifications about bonuses and promos-1_31
+  - first:
+      213: -5868962711324716030
+    second: Allow notifications about bonuses and promos-1_32
+  - first:
+      213: 6880375578610562898
+    second: Allow notifications about bonuses and promos-1_33
+  - first:
+      213: -6400852028211129646
+    second: Allow notifications about bonuses and promos-1_34
+  - first:
+      213: -4636006355536182099
+    second: Allow notifications about bonuses and promos-1_35
+  - first:
+      213: -769494105722930068
+    second: Allow notifications about bonuses and promos-1_36
+  - first:
+      213: 4239259207255121329
+    second: Allow notifications about bonuses and promos-1_37
+  - first:
+      213: 871731646913028050
+    second: Allow notifications about bonuses and promos-1_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67fe64bcb8892480800000000000000
+      internalID: -8923450842595526806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b88fa270cda2a80800000000000000
+      internalID: -8490732224109835393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47662ab7f524000e0800000000000000
+      internalID: -2305770031350126988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aaf66d51a9f1780800000000000000
+      internalID: -8710073735728616879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65635110498030b0800000000000000
+      internalID: -5750945815890533011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ef35cf4ea42140800000000000000
+      internalID: 4694068369261848335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec442037d76b9b40800000000000000
+      internalID: 5448062348158061805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bdd4582d7151250800000000000000
+      internalID: 5914659878568057629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f9acede69d93e80800000000000000
+      internalID: -8198282576443826354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc31ddb5170ba020800000000000000
+      internalID: 2353983020191530194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112253eeabcbeef0800000000000000
+      internalID: -77744616550293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340150a859bb10bb0800000000000000
+      internalID: -4971486262700208061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d9dc3b0dd42090800000000000000
+      internalID: -8060074392751056457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb349c0892e7c80800000000000000
+      internalID: -8323169428224885917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83edffe6ba4da3540800000000000000
+      internalID: 4988533370033004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496f74047bf554a0800000000000000
+      internalID: -6605096802758727347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a0240024161360800000000000000
+      internalID: 7139916386983258464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b5d2396549c8fd0800000000000000
+      internalID: -2338331006954808430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2901e07445fdad0800000000000000
+      internalID: -2675326989479406933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b9772449e480380800000000000000
+      internalID: -9004861056250045605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8496a55ad493b770800000000000000
+      internalID: 8625401376805393550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4334dd66ec36120800000000000000
+      internalID: 2405993567140132034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160aff824e539a3e0800000000000000
+      internalID: -2042041701979152287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdcc959a1cad91e0800000000000000
+      internalID: -2189404613652984377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1041219afdfbc9e0800000000000000
+      internalID: -1599905989981552611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd1fdece58fb3e50800000000000000
+      internalID: 6790293949272497592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23174cb003118240800000000000000
+      internalID: 4792132372378620717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cc1441bcf02ad70800000000000000
+      internalID: 9052815565860752527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ced4c5c571f5b2d0800000000000000
+      internalID: -3263436866828575039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e149d516766e14560800000000000000
+      internalID: 7296366203006456862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15632460498bb7b10800000000000000
+      internalID: 1980379407059138129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4fe65463bde8e0800000000000000
+      internalID: -1662475443893220657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041a7752814d8ea0800000000000000
+      internalID: -5868962711324716030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_33
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257fa5c82210c7f50800000000000000
+      internalID: 6880375578610562898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_34
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d213a65efa9b27a0800000000000000
+      internalID: -6400852028211129646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da400d148c899afb0800000000000000
+      internalID: -4636006355536182099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_36
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cb0a310353255f0800000000000000
+      internalID: -769494105722930068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdde37d9cfd4da30800000000000000
+      internalID: 4239259207255121329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allow notifications about bonuses and promos-1_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df97b17053091c00800000000000000
+      internalID: 871731646913028050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Allow notifications about bonuses and promos-1_0: -8923450842595526806
+      Allow notifications about bonuses and promos-1_1: -8490732224109835393
+      Allow notifications about bonuses and promos-1_10: -77744616550293226
+      Allow notifications about bonuses and promos-1_11: -4971486262700208061
+      Allow notifications about bonuses and promos-1_12: -8060074392751056457
+      Allow notifications about bonuses and promos-1_13: -8323169428224885917
+      Allow notifications about bonuses and promos-1_14: 4988533370033004088
+      Allow notifications about bonuses and promos-1_15: -6605096802758727347
+      Allow notifications about bonuses and promos-1_16: 7139916386983258464
+      Allow notifications about bonuses and promos-1_17: -2338331006954808430
+      Allow notifications about bonuses and promos-1_18: -2675326989479406933
+      Allow notifications about bonuses and promos-1_19: -9004861056250045605
+      Allow notifications about bonuses and promos-1_2: -2305770031350126988
+      Allow notifications about bonuses and promos-1_20: 8625401376805393550
+      Allow notifications about bonuses and promos-1_21: 2405993567140132034
+      Allow notifications about bonuses and promos-1_22: -2042041701979152287
+      Allow notifications about bonuses and promos-1_23: -2189404613652984377
+      Allow notifications about bonuses and promos-1_24: -1599905989981552611
+      Allow notifications about bonuses and promos-1_25: 6790293949272497592
+      Allow notifications about bonuses and promos-1_26: 4792132372378620717
+      Allow notifications about bonuses and promos-1_27: 9052815565860752527
+      Allow notifications about bonuses and promos-1_28: -3263436866828575039
+      Allow notifications about bonuses and promos-1_29: 7296366203006456862
+      Allow notifications about bonuses and promos-1_3: -8710073735728616879
+      Allow notifications about bonuses and promos-1_30: 1980379407059138129
+      Allow notifications about bonuses and promos-1_31: -1662475443893220657
+      Allow notifications about bonuses and promos-1_32: -5868962711324716030
+      Allow notifications about bonuses and promos-1_33: 6880375578610562898
+      Allow notifications about bonuses and promos-1_34: -6400852028211129646
+      Allow notifications about bonuses and promos-1_35: -4636006355536182099
+      Allow notifications about bonuses and promos-1_36: -769494105722930068
+      Allow notifications about bonuses and promos-1_37: 4239259207255121329
+      Allow notifications about bonuses and promos-1_38: 871731646913028050
+      Allow notifications about bonuses and promos-1_4: -5750945815890533011
+      Allow notifications about bonuses and promos-1_5: 4694068369261848335
+      Allow notifications about bonuses and promos-1_6: 5448062348158061805
+      Allow notifications about bonuses and promos-1_7: 5914659878568057629
+      Allow notifications about bonuses and promos-1_8: -8198282576443826354
+      Allow notifications about bonuses and promos-1_9: 2353983020191530194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

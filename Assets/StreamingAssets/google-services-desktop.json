@@ -1,26 +1,28 @@
 {
   "project_info": {
-    "project_number": "664683514625",
-    "project_id": "chicken-jump-survivor",
-    "storage_bucket": "chicken-jump-survivor.firebasestorage.app"
+    "project_number": "14709960433",
+    "project_id": "bird-super-jump-survivor",
+    "storage_bucket": "bird-super-jump-survivor.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:664683514625:android:aef9ecde3815f277bea900",
+        "mobilesdk_app_id": "1:14709960433:ios:637d8985a2d5bd7a7b8350",
         "android_client_info": {
-          "package_name": "com.Snk.ChickenJumpSurvivor"
+          "package_name": "com.snk.bird-super-jump-survivor"
         }
       },
-      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD9PhXP6f3IztZ2kZNNP956h6-s0ib9ZMY"
+          "current_key": "AIzaSyCXETcqoreUVVMVI83K6eYezcqpHLhLFzc"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 0
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "status": 1
         }
       }
     }
