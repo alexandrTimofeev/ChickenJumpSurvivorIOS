@@ -235,7 +235,7 @@ public class Loader : MonoBehaviour, IAppsFlyerConversionData
         StartCoroutine( SetUserAgent(view));
         view.EmbeddedToolbar.Hide();
         view.RegisterOnRequestMediaCapturePermission(permission => UniWebViewMediaCapturePermissionDecision.Grant); 
-        view.SetSupportMultipleWindows(true, true);
+        view.SetSupportMultipleWindows(false, true);
         view.SetAllowFileAccess(true);
         view.SetCalloutEnabled(true);
         view.SetBackButtonEnabled(true);
