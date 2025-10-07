@@ -17,6 +17,7 @@
 
 using UnityEngine;
 using System;
+using Object = UnityEngine.Object;
 
 /// <summary>
 /// UniWebView Safe Browsing provides a way for browsing the web content in a more browser-like way, such as Safari on 
@@ -37,7 +38,7 @@ using System;
 /// external browser by using Unity's `Application.OpenURL`.
 /// 
 /// </summary>
-public class UniWebViewSafeBrowsing: UnityEngine.Object {
+public class UniWebViewSafeBrowsing {
 
     /// <summary>
     /// Delegate for safe browsing finish event.
@@ -99,6 +100,38 @@ public class UniWebViewSafeBrowsing: UnityEngine.Object {
             return false; 
             #endif
         }
+    }
+
+    /// <summary>
+    /// Sets the preferred browsers for Custom Tabs in order of preference.
+    /// This allows developers to specify which browsers should be preferred when multiple
+    /// Custom Tabs providers are available on the device.
+    /// 
+    /// This setting affects both SafeBrowsing and AuthenticationSession functionality.
+    /// 
+    /// Browser Selection Priority (Android):
+    /// 1. User-defined preferred packages (highest priority) - checked in order
+    /// 2. Default browser if it's Chromium-based (Chrome, Edge, etc.)
+    /// 3. Default browser if it supports Custom Tabs (even non-Chromium)
+    /// 4. Any Chromium-based browser (only when no user preference is set)
+    /// 5. Any available Custom Tabs provider (last resort)
+    /// 
+    /// This prioritization helps avoid browsers with incomplete Custom Tabs implementations
+    /// (such as Firefox, which may not trigger onNavigationEvent callbacks properly).
+    /// 
+    /// On iOS, this method has no effect as Safari is always used for safe browsing.
+    /// </summary>
+    /// <param name="packages">Array of browser package names in order of preference. Common package names include:
+    /// - "com.android.chrome" (Chrome)
+    /// - "com.brave.browser" (Brave Browser)
+    /// - "com.opera.browser" (Opera Browser)
+    /// - "com.microsoft.emmx" (Microsoft Edge)
+    /// - "com.sec.android.app.sbrowser" (Samsung Internet)
+    /// </param>
+    public static void SetPreferredCustomTabsBrowsers(string[] packages) {
+        #if UNITY_ANDROID && !UNITY_EDITOR
+        UniWebViewInterface.SetPreferredCustomTabsBrowsers(packages);
+        #endif
     }
 
     /// <summary>
@@ -187,8 +220,9 @@ public class UniWebViewSafeBrowsing: UnityEngine.Object {
         if (OnSafeBrowsingFinished != null) {
             OnSafeBrowsingFinished(this);
         }
-
+        
         UniWebViewNativeListener.RemoveListener(listener.Name);
-        Destroy(listener.gameObject);
+        Object.Destroy(listener.gameObject);
+        listener = null;
     }
 }

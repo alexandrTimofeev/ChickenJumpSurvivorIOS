@@ -17,6 +17,7 @@ public class UniWebViewInterface {
     public static void SetFrame(string name, int x, int y, int width, int height) { CheckPlatform(); }
     public static void SetPosition(string name, int x, int y) { CheckPlatform(); }
     public static void SetSize(string name, int width, int height) { CheckPlatform(); }
+    public static void SetTransform(string name, float rotation, float scaleX, float scaleY) { CheckPlatform(); }
     public static bool Show(string name, bool fade, int edge, float duration, bool useAsync, string identifier) { CheckPlatform(); return false; }
     public static bool Hide(string name, bool fade, int edge, float duration, bool useAsync, string identifier) { CheckPlatform(); return false; }
     public static bool AnimateTo(string name, int x, int y, int width, int height, float duration, float delay, string identifier) { CheckPlatform(); return false; }
@@ -38,13 +39,18 @@ public class UniWebViewInterface {
     public static void SetAllowUniversalAccessFromFileURLs(bool flag) { CheckPlatform(); }
     public static void SetJavaScriptEnabled(bool flag) { CheckPlatform(); }
     public static void SetLimitsNavigationsToAppBoundDomains(bool enabled) { CheckPlatform(); }
-    public static void CleanCache(string name) { CheckPlatform(); }
+    public static void CleanCache(string name, bool includeStorage, string identifier) { CheckPlatform(); }
     public static void SetCacheMode(string name, int mode) { CheckPlatform(); }
     public static void ClearCookies() { CheckPlatform(); }
+    public static void ClearCookies(string identifier) { CheckPlatform(); }
     public static void SetCookie(string url, string cookie, bool skipEncoding) { CheckPlatform(); }
+    public static void SetCookie(string url, string cookie, bool skipEncoding, string identifier) { CheckPlatform(); }
     public static void RemoveCookies(string url, bool skipEncoding) { CheckPlatform(); }
+    public static void RemoveCookies(string url, bool skipEncoding, string identifier) { CheckPlatform(); }
     public static void RemoveCookie(string url, string key, bool skipEncoding) { CheckPlatform(); }
+    public static void RemoveCookie(string url, string key, bool skipEncoding, string identifier) { CheckPlatform(); }
     public static string GetCookie(string url, string key, bool skipEncoding) { CheckPlatform(); return ""; }
+    public static void GetCookie(string url, string key, bool skipEncoding, string identifier) { CheckPlatform(); }
     public static void ClearHttpAuthUsernamePassword(string host, string realm) { CheckPlatform(); }
     public static void SetBackgroundColor(string name, float r, float g, float b, float a) { CheckPlatform(); }
     public static void SetWebViewAlpha(string name, float alpha) { CheckPlatform(); }
@@ -99,9 +105,12 @@ public class UniWebViewInterface {
     public static void SetEmbeddedToolbarButtonTextColor(string name, Color color) { CheckPlatform(); }
     public static void SetEmbeddedToolbarTitleTextColor(string name, Color color) { CheckPlatform(); }
     public static void SetEmeddedToolbarNavigationButtonsShow(string name, bool show) { CheckPlatform(); }
+    public static void SetEmbeddedToolbarMaxHeight(string name, float height) { CheckPlatform(); }
     public static void StartSnapshotForRendering(string name, string identifier) { CheckPlatform(); }
     public static void StopSnapshotForRendering(string name) { CheckPlatform(); }
     public static byte[] GetRenderedData(string name, int x, int y, int width, int height) { CheckPlatform(); return null; }
+    public static string CopyBackForwardList(string name) { CheckPlatform(); return ""; }
+    public static void GoToIndexInBackForwardList(string listenerName, int index) { CheckPlatform(); }
 
     public static void CheckPlatform() {
         if (!alreadyLoggedWarning) {

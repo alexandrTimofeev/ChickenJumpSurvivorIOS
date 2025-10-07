@@ -72,9 +72,11 @@ public class UniWebViewGradleConfig
                         var n = FormatStr(str);
                         if (!string.IsNullOrEmpty(n))
                         {
-                            UniWebViewGradleNode node = new UniWebViewGradleNode(n, curNode);
-                            curNode.AppendChildNode(node);
-                            curNode = node;
+                            if (curNode != null) {
+                                UniWebViewGradleNode node = new UniWebViewGradleNode(n, curNode);
+                                curNode.AppendChildNode(node);
+                                curNode = node;
+                            }
                         }
                     }
                     str = new StringBuilder();
@@ -90,7 +92,9 @@ public class UniWebViewGradleConfig
                         {
                             curNode.AppendChildNode(new UniWebViewGradleContentNode(strf, curNode));
                         }
-                        curNode = curNode.Parent;
+                        if (curNode.Parent != null) {
+                            curNode = curNode.Parent;
+                        }
                     }
                     str = new StringBuilder();
                     break;
@@ -130,7 +134,9 @@ public class UniWebViewGradleConfig
         var endline = FormatStr(str);
         if (!string.IsNullOrEmpty(endline))
         {
-            curNode.AppendChildNode(new UniWebViewGradleContentNode(endline, curNode));
+            if (curNode != null) {
+                curNode.AppendChildNode(new UniWebViewGradleContentNode(endline, curNode));
+            }
         }
         //Debug.Log("Gradle parse done!");
     }

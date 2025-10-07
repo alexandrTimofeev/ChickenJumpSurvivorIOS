@@ -73,6 +73,11 @@ public class UniWebViewNativeListener: MonoBehaviour {
         webView.InternalOnPageStarted(url);
     }
 
+    public void PageCommitted(string url) {
+        UniWebViewLogger.Instance.Info("Page Commited Event. Url: " + url);
+        webView.InternalOnPageCommitted(url);
+    }
+
     public void PageFinished(string result) {
         UniWebViewLogger.Instance.Info("Page Finished Event. Url: " + result);
         var payload = JsonUtility.FromJson<UniWebViewNativeResultPayload>(result);
@@ -185,6 +190,18 @@ public class UniWebViewNativeListener: MonoBehaviour {
     public void SnapshotRenderingStarted(string identifier) {
         UniWebViewLogger.Instance.Info("Snapshot Rendering Started Event. Identifier: " + identifier);
         webView.InternalOnSnapshotRenderingStarted(identifier);
+    }
+    
+    public void GeneralCallback(string identifier) {
+        UniWebViewLogger.Instance.Info("General Callback Event. Identifier: " + identifier);
+        webView.InternalOnGeneralCallback(identifier);
+    }
+
+    private void OnDestroy() {
+        UniWebViewLogger.Instance.Verbose("Native listener destroyed: " + Name);
+        webView = null;
+        safeBrowsing = null;
+        session = null;
     }
 }
 
